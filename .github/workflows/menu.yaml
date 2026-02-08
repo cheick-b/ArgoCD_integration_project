@@ -1,4 +1,4 @@
-name: Journal CI/CD Pipeline
+name: Menu CI/CD Pipeline
 
 on:
   push:
