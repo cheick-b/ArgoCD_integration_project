@@ -1,4 +1,4 @@
-name: Focus Timer App Build       #update as appropriate
+name: Menu App Build       #update as appropriate
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Restaurant App Build       #update as appropriate
+name: Journal App Build       #update as appropriate
 
 on:
   push:
